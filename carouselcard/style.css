@@ -1,0 +1,32 @@
+.campuses-carousel{
+    background-color:#e8fcff;
+    padding-bottom:50px;
+}
+
+#demo a i{
+    font-size:30px;
+    color:yellow;
+}
+
+#demo a i:hover{
+    color:green;
+    font-size:36px;
+}
+
+.carousel-indicators{
+    left:0;
+    margin-bottom:-50px;
+}
+
+.carousel-indicators li{
+    background-color:#000;
+    border-radius:100%;
+    padding:13px 0px;
+    opacity:1;
+}
+
+
+
+.carousel-indicators .active{
+    background-color:#ffff00;
+}
